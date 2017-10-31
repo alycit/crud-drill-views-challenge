@@ -1,6 +1,6 @@
 # CRUD Drill - Views Only
 
-In this challenge we will just practice writing some views using erb. This will allow you to practice your CSS and HTML skills as well!  Models and controllers are already written for you.  Please look through all the code to see what is available (helpers, layout, models and controllers.)
+In this challenge we will just practice writing some views using erb. This will allow you to practice your CSS and HTML skills as well!  Models and controllers are already written for you.  Please look through all the code to see what is available (helpers, layout, models and controllers.)  Images have been provided in the `public/images` folder.  Font Awesome is also available for you to use.
 
 This is an app to order empanadas for Empanada Friday at DBC!
 
