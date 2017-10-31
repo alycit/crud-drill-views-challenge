@@ -1,30 +1,21 @@
-> **Note**: This branch (master) contains a skeleton without any app code, perfect for creating a _new_ application or challenge. If you're looking for an example app built with this skeleton, take a look at the [example](/../..//tree/example) branch which includes basic CRUD and RSpec tests.
+#  CRUD Drill - Views Only
 
-### Purpose
-The Sinatra Skeleton:
+In this challenge we will just practice writing some views using erb.  models and controllers are already written for you
 
-1. Provides a foundation for building challenges or creating a new Sinatra application.
-2. Demonstrates a reasonable set of practices around building Sinatra applications.
-3. Eases the transition to Rails for Dev Bootcamp students
+This is an app to order empanadas for Empanada Friday at DBC!
 
-### Quickstart
+## Release 0 - Base Layout
 
-1.  `bundle install`
-2.  `shotgun config.ru`
+## Release 1 - Sign up
 
-As needed, create models & migrations with the `rake` tasks:
+## Release 2 - Login
 
-```
-rake generate:migration  # Create an empty migration in db/migrate, e.g., rake generate:migration NAME=create_tasks
-rake generate:model      # Create an empty model in app/models, e.g., rake generate:model NAME=User
-```
+## Release 3 - User Profile
 
-### Contributing
+## Release 4 - Show Empanada
 
-We would love for you to help make the skeleton more awesome, There are three ways to contribute:
+## Release 5 - Order Empanada
 
-1. Ask for a bug fix or enhancement!
-2. Submit a pull request for a bug fix or enhancement!
-3. Code review an open pull request!
+## Release 6 - Edit Empanada Order
 
-Be prepared to give and receive specific, actionable, and kind feedback!
+## Release 7 - Display Empanada Report
